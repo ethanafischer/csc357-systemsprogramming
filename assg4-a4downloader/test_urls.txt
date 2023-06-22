@@ -1,0 +1,8 @@
+file1 https://csc.calpoly.edu/wp-content/uploads/2020/11/cal-poly-logo-reverse.svg 2
+file2 https://raw.githubusercontent.com/amigler/csc357-s23/main/README.md 1
+file3 https://freetestdata.com/wp-content/uploads/2021/09/Free_Test_Data_500KB_CSV-1.csv 5
+file4 https://noaa-dcdb-bathymetry-pds.s3.amazonaws.com/csb/csv/2018/04/04/20180404114739427770_c58b435e-55e2-4ff3-8836-591407b2bc37_pointData.csv
+file5 https://httpbin.org/anything
+file6 https://www.calpoly.edu/sites/calpoly.edu/files/css/css_a1UHYXEP80YSE1iaOtPDrbtlqAqp9Xkvv_e0Rz4m9PA.css
+file7 https://httpbin.org/delay/10
+file8 https://www.google.com/search?q=calpoly
